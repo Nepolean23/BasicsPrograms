@@ -19,6 +19,9 @@ while (true)
         case 3:
             HarmonicSeries.Harmonic();
             break;
+        case 4:
+            PowerOfTwo.PowerOfBase(); 
+            break;
         
              
             
