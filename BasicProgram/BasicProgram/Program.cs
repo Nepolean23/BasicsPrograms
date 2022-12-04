@@ -5,7 +5,7 @@ using BasicProgram;
 Console.WriteLine("Basic Programs");
 while (true)
 {   
-    Console.WriteLine("Enter the option to perform the operation \n1) FlipCoin ");
+    Console.WriteLine("Enter the option to perform the operation \n1) FlipCoin \n2) LeapYear ");
     int option = Convert.ToInt32(Console.ReadLine());
     switch (option)
     {
