@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicProgram
 {
-    internal class FlipCoin
+    public class FlipCoin
     {
         public static void FlipCoinMethod()
         {
